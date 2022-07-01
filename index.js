@@ -1,4 +1,1 @@
-const arr = () => {
-    console.log('sdsdsdsdsds')
-};
-export default arr;
+console.log('s说三道四颠三倒四')
